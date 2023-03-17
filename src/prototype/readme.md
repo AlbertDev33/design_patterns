@@ -16,11 +16,11 @@ Use esse padão (Prototype) quando um sistema tiver que ser independente de como
 ## O diagrama
 
 - **Prototype**
-    - declara uma interface (ou uma classe abstrata) para clonar a si próprio.
+    - declara uma interface (ou uma classe abstrata) para clonar a si próprio. Garante que todos os objetos protótipo tenham o método clone.
 - **ConcretePrototype (1 e 2)**
-    - implementa uma operação para clonar a si próprio.
+    - são objetos protótipos. Implementa uma operação para clonar a si próprio.
 - **Client**
-    - cria um novo objeto solicitando a um protótipo que clone a si próprio.
+    - cria um novo objeto solicitando a um protótipo que clone a si próprio. É o código que deseja clonar o objeto protótipo.
 
 
 ## Consequências
