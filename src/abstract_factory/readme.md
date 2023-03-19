@@ -1,4 +1,4 @@
-# Abstract Factory Method
+# Abstract Factory Method Pattern
 
 ## Intenção
 

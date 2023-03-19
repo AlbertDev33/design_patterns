@@ -1,4 +1,4 @@
-# Abstract Factory Method
+# Singleton Pattern
 
 ## Intenção
 
